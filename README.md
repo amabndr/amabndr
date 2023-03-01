@@ -1,7 +1,7 @@
 ### <div align="center">I'm Ama Bandara, a full-time full-stack developer 👨‍💻 working since 2010 🚀</div>  
   
 
-- 🔭 I’m currently working on rest api  
+- 🔭 I’m currently working on .Net/Flutter/Angular related project  
   
 
 - 🌱 I’m currently learning Docker and Micro services  
